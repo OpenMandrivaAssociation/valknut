@@ -1,0 +1,11 @@
+diff -rupN valknut-0.4.9.old/valknut/main.cpp valknut-0.4.9/valknut/main.cpp
+--- valknut-0.4.9.old/valknut/main.cpp	2009-01-17 19:01:25.000000000 +0100
++++ valknut-0.4.9/valknut/main.cpp	2012-10-14 18:06:27.000000000 +0200
+@@ -22,6 +22,7 @@
+ #endif
+ 
+ #include <stdlib.h>
++#include <unistd.h>
+ #ifndef WIN32
+ #include <signal.h>
+ #endif

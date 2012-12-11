@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Valknut
+Comment=Direct Connect client
+Icon=valknut
+Exec=/usr/bin/valknut --disable-tray
+#TODO: try this
+#Exec=/usr/bin/valknut
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;P2P;
