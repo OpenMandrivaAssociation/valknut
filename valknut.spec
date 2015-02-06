@@ -1,6 +1,6 @@
 Name:		valknut
 Version:		0.4.9
-Release:		2
+Release:		3
 Summary:		QT based Direct Connect file sharing client
 Group:		Networking/File transfer
 License:		GPLv2+ and LGPLv3+
