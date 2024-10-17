@@ -4,7 +4,7 @@ Release:	3
 Summary:	QT based Direct Connect file sharing client
 Group:		Networking/File transfer
 License:	GPLv2+ and LGPLv3+
-URL:		http://sourceforge.net/projects/wxdcgui/
+URL:		https://sourceforge.net/projects/wxdcgui/
 Source0:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}.tar.bz2
 Source1:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}-oxygen-icons.tar.gz
 Source2:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}-gnome-icons.tar.gz
