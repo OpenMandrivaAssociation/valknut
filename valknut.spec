@@ -10,6 +10,11 @@ Source1:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}-oxygen-icons.tar.g
 Source2:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}-gnome-icons.tar.gz
 Source3:	valknut.desktop
 Patch0:		valknut-0.4.9-fix-_exit-undefined-error.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	dc-devel >= 0.3.23
 BuildRequires:	qt4-devel >= 4.3.0
 BuildRequires:	bzip2-devel
